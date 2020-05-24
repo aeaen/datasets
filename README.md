@@ -10,3 +10,6 @@ https://www.quandl.com/
 
 https://ec.europa.eu/eurostat
 
+
+https://guides.emich.edu/data/free-data
+
