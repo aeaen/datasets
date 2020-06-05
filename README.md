@@ -15,4 +15,5 @@ https://guides.emich.edu/data/free-data
 
 
 - https://data.fivethirtyeight.com/ - Public data of news company FiveThirtyEight, focuses on opinion-poll analysis, politics, economics, and sports blogging
+- https://dataverse.harvard.edu/dataverse/harvard - Open source research data repository software http://dataverse.org and https://github.com/IQSS/dataverse
 
