@@ -1,4 +1,4 @@
-# datasets
+# Datasets
 
 - https://stat.gov.pl/
   - https://bdl.stat.gov.pl/BDL/dane/podgrup/temat
@@ -13,3 +13,8 @@
 - https://www.openml.org/home - https://github.com/openml
 - http://alltime-athletics.com/ - Track and Field all-time, Peter Larsson
 - http://www.cs.cmu.edu/~./enron/ - Enron Email Dataset
+
+## Autonomous Cars
+
+- https://waymo.com/open/data/ - Subsidiary company of Alphabet for self-driving cars
+  - https://github.com/waymo-research/waymo-open-dataset - direct link to Waymo dataset
