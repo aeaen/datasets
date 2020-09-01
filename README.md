@@ -16,6 +16,9 @@
 - https://www.consumerfinance.gov/data-research/consumer-complaints/ - Collection of complaints about consumer financial products and services that was sent to companies for response.
 - http://data.uis.unesco.org/Index.aspx
 
+## Audio archives
+- https://archive.org/details/audio - Download or listen to free music and audio (14,717,955 RESULTS as of 1th September 2020)
+
 ## Autonomous Cars
 
 - https://waymo.com/open/data/ - Subsidiary company of Alphabet for self-driving cars
