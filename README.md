@@ -16,6 +16,7 @@
 - https://www.consumerfinance.gov/data-research/consumer-complaints/ - Collection of complaints about consumer financial products and services that was sent to companies for response.
 - http://data.uis.unesco.org/Index.aspx
 - https://www.data.gov/ - "The home of the U.S. Government’s open data"
+- https://data.gov.au/search - "An easy way to find, explore and reuse Australia's public data"
 
 ## Audio archives
 - https://archive.org/details/audio - Download or listen to free music and audio (14,717,955 RESULTS as of 1th September 2020)
