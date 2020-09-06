@@ -31,6 +31,7 @@
 - https://ec.europa.eu/eurostat
 - https://stat.gov.pl/
   - https://bdl.stat.gov.pl/BDL/dane/podgrup/temat
+- https://data.worldbank.org/indicator
   
 ## 
 - https://datasetsearch.research.google.com/
